@@ -4,7 +4,7 @@
   
   ## Description
   [A video Demo](https://www.icloud.com/photos/#055xTWDcH_Z3qMQ-R9MFMLgdw)
-  ![A demo gif](./02-Challenge/Assets/video-demo.gif)
+  ![A demo gif](./Assets/video-demo.gif)
 
   Using insomnia, the user is able to interact with a database designed for e-commerce
   
